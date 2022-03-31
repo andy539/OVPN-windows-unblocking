@@ -1,4 +1,4 @@
-Инструкция по обходу блокировок VK, MailRU, Yandex в Украине для Windows (OVPN)
+Инструкция по обходу блокировок российских сайтов в Украине для Windows (OVPN)
 
 Скачайте файл конфигурации: https://cdn.srv00.com/manual/ovpn.ovpn
 
@@ -12,4 +12,4 @@
 
 ![image](https://cdn.srv00.com/img/ovpn_645.png)
 
-Готово, теперь можно закрыть окно OpenVPN Connect, и спокойно заходить в vk, yandex, webmoney, mailru, kaspersky, drweb.
+Готово.
