@@ -1,6 +1,6 @@
 Инструкция по обходу блокировок российских сайтов в Украине для Windows (OVPN)
 
-Скачайте файл конфигурации: https://cdn.srv00.com/manual/ovpn.ovpn
+Скачайте файл конфигурации: https://cloud.srv00.com/s/FkgA7nZwY25QEGq/download/client1.ovpn
 
 Устанавливаем OpenVPN Connect: https://openvpn.net/vpn-client/
 
@@ -10,4 +10,4 @@
 
 Если вы видите такое окно, то вы всё сделали правильно.
 
-![image](https://cdn.srv00.com/img/ovpn_645.png)
+![image](https://cloud.srv00.com/apps/files_sharing/publicpreview/HsaswnEBZkXexdg?x=1908&y=629&a=true&file=img3.PNG&scalingup=0)
